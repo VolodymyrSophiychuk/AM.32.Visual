@@ -1,0 +1,17 @@
+D:\WorkFolder\VS\Radio\Radio\bin\Debug\net6.0-windows\Radio.exe
+D:\WorkFolder\VS\Radio\Radio\bin\Debug\net6.0-windows\Radio.deps.json
+D:\WorkFolder\VS\Radio\Radio\bin\Debug\net6.0-windows\Radio.runtimeconfig.json
+D:\WorkFolder\VS\Radio\Radio\bin\Debug\net6.0-windows\Radio.dll
+D:\WorkFolder\VS\Radio\Radio\bin\Debug\net6.0-windows\Radio.pdb
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.csproj.AssemblyReference.cache
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.Radio.resources
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.csproj.GenerateResource.cache
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.AssemblyInfoInputs.cache
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.AssemblyInfo.cs
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.csproj.CoreCompileInputs.cache
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.dll
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\refint\Radio.dll
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.pdb
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\Radio.genruntimeconfig.cache
+D:\WorkFolder\VS\Radio\Radio\obj\Debug\net6.0-windows\ref\Radio.dll

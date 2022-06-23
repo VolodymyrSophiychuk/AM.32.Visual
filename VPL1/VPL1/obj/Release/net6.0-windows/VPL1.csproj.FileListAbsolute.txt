@@ -1,0 +1,17 @@
+D:\WorkFolder\VS\VP\VPL1\VPL1\bin\Release\net6.0-windows\VPL1.exe
+D:\WorkFolder\VS\VP\VPL1\VPL1\bin\Release\net6.0-windows\VPL1.deps.json
+D:\WorkFolder\VS\VP\VPL1\VPL1\bin\Release\net6.0-windows\VPL1.runtimeconfig.json
+D:\WorkFolder\VS\VP\VPL1\VPL1\bin\Release\net6.0-windows\VPL1.dll
+D:\WorkFolder\VS\VP\VPL1\VPL1\bin\Release\net6.0-windows\VPL1.pdb
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.csproj.AssemblyReference.cache
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.Calculator.resources
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.csproj.GenerateResource.cache
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.AssemblyInfoInputs.cache
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.AssemblyInfo.cs
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.csproj.CoreCompileInputs.cache
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.dll
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\ref\VPL1.dll
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.pdb
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\VPL1.genruntimeconfig.cache
+D:\WorkFolder\VS\VP\VPL1\VPL1\obj\Release\net6.0-windows\refint\VPL1.dll

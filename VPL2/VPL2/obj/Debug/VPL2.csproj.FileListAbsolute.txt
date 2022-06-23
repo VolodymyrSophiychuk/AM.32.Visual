@@ -1,0 +1,11 @@
+D:\WorkFolder\VS\VP\VPL2\VPL2\bin\Debug\VPL2.exe.config
+D:\WorkFolder\VS\VP\VPL2\VPL2\bin\Debug\VPL2.exe
+D:\WorkFolder\VS\VP\VPL2\VPL2\bin\Debug\VPL2.pdb
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.csproj.AssemblyReference.cache
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.csproj.SuggestedBindingRedirects.cache
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.Properties.Resources.resources
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.csproj.GenerateResource.cache
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.csproj.CoreCompileInputs.cache
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.exe
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.pdb
+D:\WorkFolder\VS\VP\VPL2\VPL2\obj\Debug\VPL2.VPL2.resources
